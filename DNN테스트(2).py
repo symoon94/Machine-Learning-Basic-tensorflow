@@ -13,8 +13,7 @@ Created on Tue Nov 28 16:20:48 2017
 
 @author: moonsooyoung
 """
-This is an H1
-===============
+
 import os
 import numpy as np
 

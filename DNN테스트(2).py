@@ -13,6 +13,8 @@ Created on Tue Nov 28 16:20:48 2017
 
 @author: moonsooyoung
 """
+This is an H1
+===============
 import os
 import numpy as np
 
@@ -55,7 +57,7 @@ save_path_full = os.path.join(save_path, model_name)
 
 #테스트 단계
 #테스트할 파일을 불러옴.
-k = pilimg.open('/Users/moonsooyoung/Desktop/수영python과제/seven.png' )
+k = pilimg.open('/Users/moonsooyoung/Desktop/수영python과제/seven.png' )
 plt.imshow(k)
 imgarray=np.array(k)    #컬러채널이 1개가 되도록 이미 전처리를 한 상태라서 그냥 (28,28)로 나옴.
 kkk = imgarray/255    #k1 벡터 안의 숫자들을 0과 1 사이로 normalize시키기 벡터 내의 가장 큰 값으로 k1을 나눠줌.

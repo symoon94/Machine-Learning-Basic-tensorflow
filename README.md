@@ -1,6 +1,6 @@
 jupyter_version
 ====================
-## DNN, CNN, and RNN
+DNN, CNN, and RNN
 ------------------------
 ###### Reference: 
 ###### 1. https://pythonprogramming.net/machine-learning-tutorial-python-introduction/

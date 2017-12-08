@@ -1,4 +1,5 @@
-# jupyter_version
+jupyter_version
+====================
+## DNN, CNN, and RNN
 
-
-## ALL CODE HERE REF. : Sentdex
+###### Reference: https://pythonprogramming.net/machine-learning-tutorial-python-introduction/

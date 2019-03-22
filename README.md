@@ -3,7 +3,6 @@ jupyter_version
 DNN, CNN, and RNN
 ------------------------
 
-Cheer up
 
 
 ###### Reference: 
